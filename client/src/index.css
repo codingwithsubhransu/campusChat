@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: #102217;
+}
+
+@theme {
+  --color-primary: #102217;
+  --color-secondary: #111814;
+}
